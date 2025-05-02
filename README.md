@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://www.linkedin.com/in/jadhavkiran45"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kiranjadhav4563@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/_k.i.r.a.n_07/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+![Profile Views](https://komarev.com/ghpvc/?username=kiranjadhav45&style=flat-square)
 <!--
 **Desaiabhishek/Desaiabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
