@@ -2,7 +2,7 @@
 
 <a href="https://www.instagram.com/abhishek_desai2002"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:abhishekdesai363@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/_k.i.r.a.n_07/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/abhishek_desai2002"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <!--
 **Desaiabhishek/Desaiabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
