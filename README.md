@@ -13,10 +13,10 @@
 <img height=25 src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 <!-- <img height=25 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp; -->
-<!--
+
 ### **Frameworks, Platforms and Libraries**:
 
-<img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/react%20native-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">&nbsp;&nbsp;
