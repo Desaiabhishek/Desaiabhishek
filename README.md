@@ -21,10 +21,11 @@
 <img height=25 src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/entity%20framework-%23404d59.svg?style=for-the-badge&logo=dotnet&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/ajax-%23404d59.svg?style=for-the-badge&logo=ajax&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/bootstrap-%23404d59.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB">&nbsp;&nbsp;
-
 <!--
 <img height=25 src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/next.js-%23E0234E.svg?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;&nbsp;
