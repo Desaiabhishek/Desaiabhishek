@@ -37,7 +37,8 @@
 #### **Databases**:
 
 <img height=25 src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">&nbsp;&nbsp;
-
+<img height=25 src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;&nbsp;
 
 <!-- <img height=25 src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp; -->
 
